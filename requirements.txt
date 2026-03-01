@@ -1,5 +1,6 @@
 streamlit
-openai
-pypdf
-python-docx
+openai>=1.0.0
 PyPDF2
+python-docx
+networkx
+matplotlib
