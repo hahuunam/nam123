@@ -18,7 +18,7 @@ DATA_FOLDER = Path("data")
 st.set_page_config(page_title="AI Hỗ trợ Ngữ Văn", page_icon="📚", layout="wide")
 st.title("📚 AI Hỗ trợ Dạy & Học Ngữ Văn")
 
-openai.api_key = os.getenv("OPENAI_API_KEY")
+openai.api_key = os.getenv("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")
 
 
 # ------------------- Hàm tiện ích -------------------
