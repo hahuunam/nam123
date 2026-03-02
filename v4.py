@@ -152,7 +152,7 @@ if "is_admin" not in st.session_state:
 st.sidebar.title("🔐 Quản lý")
 st.sidebar.image("2.jpg", use_container_width=True)
 st.sidebar.markdown(
-    "<h4 style='text-align: center; color: red;'>Trường THCS Kim Đồng - Đà Nẵng</h4>",
+    "<h4 style='text-align: center; color: red;'>Trường THPT Võ Chí Công - Đà Nẵng</h4>",
     unsafe_allow_html=True,
 )
 
