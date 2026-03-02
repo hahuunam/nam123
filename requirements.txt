@@ -1,6 +1,10 @@
 streamlit
-openai==0.28
+openai>=1.0.0
 PyPDF2
 python-docx
 networkx
 matplotlib
+google-api-python-client
+google-auth
+google-auth-httplib2
+google-auth-oauthlib
